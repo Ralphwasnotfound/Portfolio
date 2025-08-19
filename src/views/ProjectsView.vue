@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import SkillsView from '@/components/Landing/SkillsView.vue';
+import SkillsView from '../components/Landing/SkillsView.vue';
 
     export default {
         components: {
@@ -13,3 +13,7 @@ import SkillsView from '@/components/Landing/SkillsView.vue';
         }
     }
 </script>
+
+<style>
+    /* optional */
+</style>

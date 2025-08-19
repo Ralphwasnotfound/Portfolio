@@ -51,3 +51,7 @@ export default {
     }
 }
 </script>
+
+<style>
+    /* Optional */
+</style>
