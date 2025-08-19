@@ -26,6 +26,9 @@
 </template>
 
 <script>
+import capstoneImg from '@/assets/img/Capstone.png'
+import portfolioImg from '@/assets/img/Portfolio.png'
+
 export default {
     data() {
         return {
@@ -33,13 +36,13 @@ export default {
             {
                 title: "Capstone School Website",
                 description: "A dynamic school website built with Vue.js and Django backend.",
-                image: "@/assets/img/capstone.png",
+                image: capstoneImg,
                 link: "https://github.com/Ralphwasnotfound/Capstone"
             },
             {
             title: "Portfolio Site",
             description: "My personal portfolio to showcase my projects and skills.",
-            image: "@/assets/img/Portfolio.png",
+            image: portfolioImg,
             link: "https://github.com/Ralphwasnotfound/Portfolio"
             },
         // Add more projects here
