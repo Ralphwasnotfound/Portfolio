@@ -33,13 +33,13 @@ export default {
             {
                 title: "Capstone School Website",
                 description: "A dynamic school website built with Vue.js and Django backend.",
-                image: "/src/assets/img/capstone.png",
+                image: "@/assets/img/capstone.png",
                 link: "https://github.com/Ralphwasnotfound/Capstone"
             },
             {
             title: "Portfolio Site",
             description: "My personal portfolio to showcase my projects and skills.",
-            image: "/src/assets/img/Portfolio.png",
+            image: "@/assets/img/Portfolio.png",
             link: "https://github.com/Ralphwasnotfound/Portfolio"
             },
         // Add more projects here
